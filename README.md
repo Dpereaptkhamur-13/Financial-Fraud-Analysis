@@ -22,3 +22,5 @@ Unlike raw data, which can be noisy due to random spikes, the SMA helps in visua
 1. Clone the repository.
 2. Install dependencies: `pip install pandas numpy`
 3. Run the script: `python pandas_project.py`
+
+Dataset: Due to file size limits, the 'Synthetic Financial Datasets' CSV is not included. You can download the dataset from Kaggle or use your own financial transaction log.
